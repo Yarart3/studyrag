@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# StudyRAG local data: PDFs and vector DB (never commit)
+/data/
