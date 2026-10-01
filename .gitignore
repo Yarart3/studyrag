@@ -219,3 +219,7 @@ __marimo__/
 
 # StudyRAG local data: PDFs and vector DB (never commit)
 /data/
+
+# Private notes and Claude Code personal instructions
+.private/
+CLAUDE.local.md
